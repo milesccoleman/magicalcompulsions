@@ -1,3 +1,5 @@
 [Home](https://milesccoleman.com)
 
-https://slides.com/milescoleman/the-magical-compulsions-of-ma
+# Rhetoric, Magic, and Machines
+
+<iframe src="https://milesccoleman.com/magicalcompulsions/#/"></iframe>
